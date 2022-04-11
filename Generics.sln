@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Third Week", "Third Week\Third Week.csproj", "{1434ABAA-C4AA-49E7-B7F0-34AD9D873BB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shoppingbag", "shoppingbag\shoppingbag.csproj", "{617BEEDA-97C4-47A3-B502-7C7F44E8F498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1434ABAA-C4AA-49E7-B7F0-34AD9D873BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1434ABAA-C4AA-49E7-B7F0-34AD9D873BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1434ABAA-C4AA-49E7-B7F0-34AD9D873BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1434ABAA-C4AA-49E7-B7F0-34AD9D873BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617BEEDA-97C4-47A3-B502-7C7F44E8F498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617BEEDA-97C4-47A3-B502-7C7F44E8F498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617BEEDA-97C4-47A3-B502-7C7F44E8F498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617BEEDA-97C4-47A3-B502-7C7F44E8F498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8710630-BC8C-45D7-9A5E-4937C6CDBB92}
+	EndGlobalSection
+EndGlobal
